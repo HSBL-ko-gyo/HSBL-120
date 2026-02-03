@@ -8,7 +8,7 @@ Xiaomi Smart Band magnetic cable power extraction module
 
 
 ## 定格
-5V 500ｍA以下でお使いください。  
+5V 500ｍA以下でお使いください。  (各互換ケーブル(上位)の定格は不明です)
 
 ### 絶対最大定格
 - 逆接防止ダイオード CUHS20S30 30V2A
