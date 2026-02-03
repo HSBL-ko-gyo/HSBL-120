@@ -10,8 +10,22 @@ Xiaomi Smart Band magnetic cable power extraction module
 ## 定格
 5V 500ｍA以下でお使いください。  
 
+### 絶対最大定格
+- 逆接防止ダイオード CUHS20S30 30V2A
+- 2.54mmピンヘッダ 3A
+- SHコネクタ(未実装) 1A
+
+## 接続方法
+接点シルクを参考に接続してください。  
+<img width="450"  alt="image" src="https://github.com/user-attachments/assets/055c72a2-2b2b-4d3b-8b9e-e3d5ac9bf74c" />
+
+
 ## 動作確認済みケーブル(Amazonアフィリンク)
 - [MoKo Xiaomi SmartBand 10/9/8 充電ケーブル](https://amzn.to/4bJydPQ)
+- [MoKo シャオミ Smart Band 10/9/8用 変換アダプター](https://amzn.to/4c7GSvF)
+
+## 寸法
+後報
 
 
 
