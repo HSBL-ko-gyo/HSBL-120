@@ -25,7 +25,10 @@ Xiaomi Smart Band magnetic cable power extraction module
 - [MoKo シャオミ Smart Band 10/9/8用 変換アダプター](https://amzn.to/4c7GSvF)
 
 ## 寸法
-後報
+<img width="450"  alt="image" src="https://github.com/user-attachments/assets/6b7cae4f-4678-44e6-a892-aba0fc5be3e9" />
+
+<img width="450"  alt="image" src="https://github.com/user-attachments/assets/e15c8046-7b11-48d5-a49b-3366880f8c9a" />
+
 
 
 
@@ -33,3 +36,10 @@ Xiaomi Smart Band magnetic cable power extraction module
 
 <img width="800"  alt="image" src="https://github.com/user-attachments/assets/e47321db-3329-4a23-bdd3-a3c156b3c8a4" />
 
+
+
+
+# 筐体
+
+Bambu Lab PLA系フィラメント  
+データは3Dファイルの中にあります。
