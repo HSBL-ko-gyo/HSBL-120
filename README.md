@@ -42,4 +42,5 @@ Xiaomi Smart Band magnetic cable power extraction module
 # 筐体
 
 Bambu Lab PLA系フィラメント  
-データは3Dファイルの中にあります。
+データは3Dファイルの中にあります    
+付属ネジはM2*3 4本です  
