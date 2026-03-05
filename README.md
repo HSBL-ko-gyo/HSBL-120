@@ -1,4 +1,5 @@
 ## ハシビロ工業 Xiaomi Band 8/9/10 マグ電源取り出しアダプタ
+### [こちら](https://www.switch-science.com/products/10974?srsltid=AfmBOople41mytk_DBI-3yg_KscqWiqXa8iL41R_LXy6xXx3QSOQZ2Tn)で発売中
 Xiaomi Smart Band magnetic cable power extraction module  
 [Xiaomi Smart Band8,9.10世代の充電ケーブル(アフィリンク)](https://amzn.to/4tdUKur)から5Vを引き出します。  
 マグネットケーブルで給電できる機器の制作に最適です。  [購入はこちらから](https://www.switch-science.com/products/10974?srsltid=AfmBOooYZYEZudULAu4z2PDG65zgU52Z8b7SB-hmojOWrKPGDMcO51Qt)
