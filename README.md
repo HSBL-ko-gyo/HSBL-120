@@ -2,7 +2,7 @@
 ### [こちら](https://www.switch-science.com/products/10974?srsltid=AfmBOople41mytk_DBI-3yg_KscqWiqXa8iL41R_LXy6xXx3QSOQZ2Tn)で発売中
 Xiaomi Smart Band magnetic cable power extraction module  
 [Xiaomi Smart Band8,9.10世代の充電ケーブル(アフィリンク)](https://amzn.to/4tdUKur)から5Vを引き出します。  
-マグネットケーブルで給電できる機器の制作に最適です。  [購入はこちらから](https://www.switch-science.com/products/10974?srsltid=AfmBOooYZYEZudULAu4z2PDG65zgU52Z8b7SB-hmojOWrKPGDMcO51Qt)
+マグネットケーブルで給電できる機器の制作に最適です。  
 
 <br>
 <img width="450"  alt="image" src="https://github.com/user-attachments/assets/9aeae73e-1c4e-47de-9727-2f1d8f4c53bc" />
